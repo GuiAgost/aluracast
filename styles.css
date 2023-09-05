@@ -1,5 +1,7 @@
 @import url("src/assets/style/base.css");
-@import url("src/assets/style/responsivo.css");
 @import url("src/assets/style/index.css");
 @import url("src/assets/style/cartao.css");
 @import url("src/assets/style/secao.css");
+@import url("src/assets/style/menu.css");
+@import url("src/assets/style/navbar.css");
+@import url("src/assets/style/responsivo.css");
