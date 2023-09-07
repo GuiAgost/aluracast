@@ -5,7 +5,7 @@ Uma página estática inspirada em uma plataforma de streamming de músicas e po
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Aluracast**
-| :label: Tecnologias | html, css
+| :label: Tecnologias | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" hedight="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="30" hedight="30"/>
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Curso     | [https://url-do-desafio.com.br](https://cursos.alura.com.br/course/css-construindo-layouts-grid)
 
