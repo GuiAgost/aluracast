@@ -1,4 +1,6 @@
-# Aluracast
+<p align="center"><img width="600" alt="Aluraplus" src="https://github.com/GuiAgost/aluracast/assets/76624588/1f16e11f-15a6-4d5f-a08f-c0f7c4a42b18"></p>
+
+# <p align="center">Aluracast</p>
 
 Uma página estática inspirada em uma plataforma de streamming de músicas e podcasts.
 
@@ -6,12 +8,33 @@ Uma página estática inspirada em uma plataforma de streamming de músicas e po
 | -------------  | --- |
 | :sparkles: Nome        | **Aluracast**
 | :label: Tecnologias | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" hedight="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="30" hedight="30"/>
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Curso     | [https://url-do-desafio.com.br](https://cursos.alura.com.br/course/css-construindo-layouts-grid)
-
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+| :rocket: URL         | https://guiagost.github.io/aluracast/
+| :fire: Curso     | https://cursos.alura.com.br/course/css-construindo-layouts-grid
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Projeto construído com intuito de aprender e praticar sobre os fundamentos do grid layout no CSS.
+
+Foram desenvolvido os passos fundamentais:
+
+* Implementar valores para as alturas das linhas e larguras das colunas
+* Modificar o alinhamento vertical e horizontal dos elementos
+* Calcular o espaçamento vertical e horizontal entre os elementos
+* Integrar as propriedades do grid para tornar o layout responsivo
+
+## Layout 1440px:
+
+<p align="center"><img alt="Aluraplus" src="https://github.com/GuiAgost/aluracast/assets/76624588/eb7dfc3c-57c2-4209-9074-ba88e899fb53#vitrinedev"></p>
+
+## Layout 1024px:
+
+<p align="center"><img alt="Aluraplus" src="https://github.com/GuiAgost/aluracast/assets/76624588/c36e2dde-1fb4-444c-ba4e-e7622acbf56b"></p>
+
+## Layout 360px:
+
+<p align="center"><img alt="Aluraplus" src="https://github.com/GuiAgost/aluracast/assets/76624588/aaea08cd-b53b-4ed9-8540-1eb79eb490a2"></p>
+
+## 🔗 Protótipo de interface
+
+[Protótipo aluracast](https://www.figma.com/file/Cs3tPE5ZrxD7PfaAsK2AMb/Projeto-Grid---Alura-Cast?type=design&node-id=0%3A1&mode=dev)
+
