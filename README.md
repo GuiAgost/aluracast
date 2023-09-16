@@ -1,6 +1,6 @@
 <p align="center"><img width="800" height="300" alt="Aluraplus" src="https://github.com/GuiAgost/aluracast/assets/76624588/2922b3f9-0d3b-4712-8766-78b1f1f04d70"></p>
 
-# Aluracast
+# <p align="center">Aluracast</p>
 
 Uma página estática inspirada em uma plataforma de streamming de músicas e podcasts.
 
