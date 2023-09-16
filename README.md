@@ -1,4 +1,4 @@
-<p align="center"><img width="800" height="300" alt="Aluraplus" src="https://github.com/GuiAgost/aluracast/assets/76624588/2922b3f9-0d3b-4712-8766-78b1f1f04d70"></p>
+<p align="center"><img width="600" alt="Aluraplus" src="https://github.com/GuiAgost/aluracast/assets/76624588/1f16e11f-15a6-4d5f-a08f-c0f7c4a42b18"></p>
 
 # <p align="center">Aluracast</p>
 
