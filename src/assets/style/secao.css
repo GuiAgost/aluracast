@@ -30,6 +30,10 @@
    
    
     grid-template-columns: repeat(auto-fit, minmax(var(--minimo), 1fr));
+    
+    /* Forma mais simples sem precisar do calcula acima */
+    /* grid-template-columns: repeat(3, 1fr);
+    gap: 20px; */
 }
 
     /* grid-template-columns: repeat(auto-fit, minmax(min(100%/2, max(348px, 100%/3)), 1fr)); */
